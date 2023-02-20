@@ -6,14 +6,16 @@ The working docker environment follows the setup instruction thanks to [xieguo](
 
 ## Lab materials
 
-- [ ] Bits, Bytes, & Integers I 
-  - [ ] video
-  - [ ] dga	2.1	
-  - [ ] L1 (datalab) out (pdf, tar)
+
+- [x] Bits, Bytes, & Integers I 
+  - [x] video
+  - [x] dga	2.1	
+  - [x] L1 (datalab) out (pdf, tar)
   - [ ] Recitation 2: Introductions (slides)
 - [ ] Bits, Bytes, & Integers II 
-  - [ ] video	
-  - [ ] dga	2.2-2.3	L1 due
+  - [x] video	
+  - [ ] dga	2.2-2.3	
+  - [ ] L1 due
 - [ ] Machine Prog: Basics 
   - [ ] video
   - [ ] dga	3.1-3.5	
