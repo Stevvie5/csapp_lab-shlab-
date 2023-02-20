@@ -3,6 +3,11 @@
 ## Setup environment
 The working docker environment follows the setup instruction thanks to [xieguo](https://hub.docker.com/r/xieguochao/csapp)'s contribution.
 
+1. Pull images from docker official.
+
+2. docker run -dp 7777:7777 -v "$PWD/labs:/home/csapp/project" xieguochao/csapp:latest
+
+3. Rebuild cpptool extension in vscode with **"Extension: install from VSIX ..."**
 
 ## Lab materials
 
