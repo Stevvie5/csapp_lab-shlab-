@@ -13,46 +13,50 @@ The working docker environment follows the setup instruction thanks to [xieguo](
 
 
 - [x] Bits, Bytes, & Integers I 
-  - [x] video
+  - [x] lecture
   - [x] dga	2.1	
   - [x] L1 (datalab) out (pdf, tar)
-  - [ ] Recitation 2: Introductions (slides)
-- [ ] Bits, Bytes, & Integers II 
-  - [x] video	
-  - [ ] dga	2.2-2.3	
-  - [ ] L1 due
+  - [x] Recitation 2: Introductions (slides)
+- [x] Bits, Bytes, & Integers II 
+  - [x] lecture	
+  - [x] dga	2.2-2.3	
+
+- [ ] Floating Point
+  - [ ] 2.4
 - [ ] Machine Prog: Basics 
-  - [ ] video
-  - [ ] dga	3.1-3.5	
-  - [ ] L2 (bomblab) out 
+  - [ ] lecture
+  - [ ] dga	3.1-3.5	 
   - [ ] Bootcamp 2: Debugging & GDB 
-  - [ ] Recitation 3: Datalab and Data Representations (slides, handout, solutions)
+  - [ ] Recitation 3: Datalab and Data Representations
 - [ ] Machine Prog: Control 
-  - [ ] video
+  - [ ] lecture
   - [ ] dga	3.6	
+  - [ ] l1 due
 - [ ] Machine Prog: Procedures 
-  - [ ] video
+  - [ ] lecture
   - [ ] dga	3.7	L1 due
   - [ ] Recitation 4: Bomb Lab (slides, handout)
 - [ ] Machine Prog: Data 
-  - [ ] video
+  - [ ] lecture
   - [ ] dga	3.8-3.9	
 - [ ] Machine Prog: Advanced 
-  - [ ] video	
+  - [ ] lecture	
   - [ ] dga	3.10	
   - [ ] L2 due, L3 (attacklab) out (pdf, tar)
   - [ ] Bootcamp 3: GCC & Build Automation (slides, handout)			
   - [ ] Recitation 5: Attack Lab and Stacks (pdf, handout)
 - [ ] The Memory Hierarchy  
-  - [ ] video	
+  - [ ] lecture	
   - [ ] dga	6.1-6.3	
 - [ ] Cache Memories  
-  - [ ] video	
+  - [ ] lecture	
   - [ ] dga	6.4-6.7	
   - [ ] L3 due, L4 (cachelab) out (pdf, tar)
   - [ ] Bootcamp 4: C Programming (pdf, pptx, handout)			
   - [ ] Recitation 6: C Review
-- [ ] Design and Debugging		
+
+
+<!-- - [ ] Design and Debugging		
 - [ ] Code Optimization	
   - [ ] dga	5	
   - [ ] Recitation 7: Caches & Blocking
@@ -60,17 +64,31 @@ The working docker environment follows the setup instruction thanks to [xieguo](
   - [ ] zw	9.9	
 - [ ] Dynamic Memory Allocation: Advanced	
   - [ ] dga	9.10-9.12	
-  - [ ] L4 due, L5 (malloclab) out
+  - [ ]  -->
+  
 - [ ] Linking	
   - [ ] dga	7	
+- [ ] ECF: Signals
+  - [ ] 8.5-8.8
+  - [ ] L4 due 11:59pm
+- [ ] System Level I/O
+  - [ ] 10
+  - [ ] L5 (tshlab) out
 - [ ] Virtual Memory: Concepts	
   - [ ] dga	9.1-9.6	
   - [ ] Bootcamp 5: Malloc			
   - [ ] Recitation 9: Malloc lab (Part II)
-- [ ] Virtual Memory: Details	
+- [ ] Virtual Memory: Systems	
   - [ ] dga	9.7-9.8	
-  - [ ] L5a Due
-- [ ] Processes and Multitasking	
+
+- [ ] Storage Allocation: Basic
+  - [ ] 9.9
+  - [ ] L5 due 11:59pm, L6 (malloclab)
+- [ ] Storage Allocation: Advanced
+  - [ ] 9.9-9.11
+
+
+<!-- - [ ] Processes and Multitasking	
   - [ ] dga	8.1-8.4	
   - [ ] Recitation 10: Processes, signals
 - [ ] Exceptional Control Flow	
@@ -78,7 +96,9 @@ The working docker environment follows the setup instruction thanks to [xieguo](
   - [ ] L5b Due, L6 (tshlab) out
 - [ ] System Level I/O	
   - [ ] dga	10	
-  - [ ] Recitation 11: Shell lab
+  - [ ] Recitation 11: Shell lab -->
+
+
 - [ ] Network Programming (Part I)	
   - [ ] dga	11.1-11.4	
 - [ ] Network Programming (Part II)	
@@ -90,6 +110,7 @@ The working docker environment follows the setup instruction thanks to [xieguo](
   - [ ] Recitation 13: Synchronization
 - [ ] Synchronization: Basic	
   - [ ] dga	12.4, 12.5.1-3	
+  - [ ] L6 Due 11:59pm, L7 (proxylab) out
 - [ ] Synchronization: Advanced
   - [ ] dga	12.5.4-5, 12.7-8
   - [ ] L7a due
@@ -97,4 +118,4 @@ The working docker environment follows the setup instruction thanks to [xieguo](
 - [ ] Thread-Level Parallelism
   - [ ] dga	12.6	
 - [ ] Future of Computing
-  - [ ] L7b due
+  - [ ] L7 due
