@@ -31,10 +31,9 @@ The working docker environment follows the setup instruction thanks to [xieguo](
 - [ ] Machine Prog: Control 
   - [ ] lecture
   - [ ] dga	3.6	
-  - [ ] l1 due
+  - [ ] l1 due l2 out
 - [ ] Machine Prog: Procedures 
   - [ ] lecture
-  - [ ] dga	3.7	L1 due
   - [ ] Recitation 4: Bomb Lab (slides, handout)
 - [ ] Machine Prog: Data 
   - [ ] lecture
