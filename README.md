@@ -20,21 +20,17 @@ The working docker environment follows the setup instruction thanks to [xieguo](
 - [x] Bits, Bytes, & Integers II 
   - [x] lecture	
   - [x] dga	2.2-2.3	
-
-<!-- - [ ] Floating Point
-  - [ ] 2.4 -->
-  
 - [ ] Machine Prog: Basics 
   - [ ] lecture
   - [ ] dga	3.1-3.5	 
-  - [ ] Bootcamp 2: Debugging & GDB 
-  - [ ] Recitation 3: Datalab and Data Representations
+  - [ ] Bootcamp 2: Debugging & GDB; Recitation 3: Datalab and Data Representations
 - [ ] Machine Prog: Control 
   - [ ] lecture
-  - [ ] dga	3.6	
-  - [ ] l1 due l2 out
+  - [ ] dga	3.6
+  - [ ] l1 due; l2 out
 - [ ] Machine Prog: Procedures 
   - [ ] lecture
+  - [ ] dga 3.7
   - [ ] Recitation 4: Bomb Lab (slides, handout)
 - [ ] Machine Prog: Data 
   - [ ] lecture
@@ -54,18 +50,6 @@ The working docker environment follows the setup instruction thanks to [xieguo](
   - [ ] L3 due, L4 (cachelab) out (pdf, tar)
   - [ ] Bootcamp 4: C Programming (pdf, pptx, handout)			
   - [ ] Recitation 6: C Review
-
-
-<!-- - [ ] Design and Debugging		
-- [ ] Code Optimization	
-  - [ ] dga	5	
-  - [ ] Recitation 7: Caches & Blocking
-- [ ] Dynamic Memory Allocation: Basic	
-  - [ ] zw	9.9	
-- [ ] Dynamic Memory Allocation: Advanced	
-  - [ ] dga	9.10-9.12	
-  - [ ]  -->
-  
 - [ ] Linking	
   - [ ] dga	7	
 - [ ] ECF: Signals
@@ -119,3 +103,17 @@ The working docker environment follows the setup instruction thanks to [xieguo](
   - [ ] dga	12.6	
 - [ ] Future of Computing
   - [ ] L7 due
+
+
+<!-- - [ ] Floating Point
+  - [ ] 2.4 -->
+  
+<!-- - [ ] Design and Debugging		
+- [ ] Code Optimization	
+  - [ ] dga	5	
+  - [ ] Recitation 7: Caches & Blocking
+- [ ] Dynamic Memory Allocation: Basic	
+  - [ ] zw	9.9	
+- [ ] Dynamic Memory Allocation: Advanced	
+  - [ ] dga	9.10-9.12	
+  - [ ]  -->
