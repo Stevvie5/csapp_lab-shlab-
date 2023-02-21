@@ -21,8 +21,9 @@ The working docker environment follows the setup instruction thanks to [xieguo](
   - [x] lecture	
   - [x] dga	2.2-2.3	
 
-- [ ] Floating Point
-  - [ ] 2.4
+<!-- - [ ] Floating Point
+  - [ ] 2.4 -->
+  
 - [ ] Machine Prog: Basics 
   - [ ] lecture
   - [ ] dga	3.1-3.5	 
